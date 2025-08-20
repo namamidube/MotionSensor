@@ -1,6 +1,6 @@
 # Arduino Motion Sensor using PIR and LED
 
-A simple Arduino project that uses a PIR motion sensor to detect motion and light up an LED. Great for beginners and perfect for showcasing basic embedded systems and hardware control on your resume.
+A simple Arduino project that uses a PIR motion sensor to detect motion and light up an LED. 
 
 ---
 ## Features
